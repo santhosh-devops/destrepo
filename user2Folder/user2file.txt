@@ -1,0 +1,2 @@
+thisfile is created from min ec2 user 
+

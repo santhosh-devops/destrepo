@@ -1,2 +1,2 @@
 thisfile is created from min ec2 user 
-
+adding a ssecinf=d liondjvb
